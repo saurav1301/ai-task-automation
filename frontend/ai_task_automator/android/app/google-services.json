@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700960945352",
+    "project_id": "ai-task-automator-54ae7",
+    "storage_bucket": "ai-task-automator-54ae7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700960945352:android:24741bd95bf31a5bb461fd",
+        "android_client_info": {
+          "package_name": "com.example.ai_task_automator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1-KacY2lIkOIsZA15hC7Ws-A7zlFoFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
